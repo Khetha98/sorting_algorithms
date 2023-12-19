@@ -24,5 +24,7 @@ void print_list(const listint_t *list);
 
 void bubble_sort(int *array, size_t size);
 void insertion_sort_list(listint_t **list);
+void selection_sort(int *array, size_t size);
+
 
 #endif /* BBC02920_7CD4_4A55_8A0F_5C763B35B16A */
